@@ -1,10 +1,10 @@
-# Unstop-UI
+# Unstop-project
 
 ## Introduction
-This is a User Interface design with the help of Figma.
+New Assignment dashboard with help of figma
 
 ## Deployed App
-https://unstop-ui-mohit-6164.vercel.app/
+
 
 ## Video Walkthrough of the project
 
